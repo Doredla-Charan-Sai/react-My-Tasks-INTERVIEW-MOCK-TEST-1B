@@ -1,0 +1,17 @@
+.outline-btn {
+  border-radius: 40px;
+  color: white;
+  border: 1px solid #f3aa4e;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 5px;
+}
+.color-btn {
+  border-radius: 40px;
+  color: white;
+  border: none;
+  outline: none;
+  background-color: #f3aa4e;
+  cursor: pointer;
+  padding: 5px;
+}
